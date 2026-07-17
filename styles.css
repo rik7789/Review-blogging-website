@@ -1,0 +1,16 @@
+html {
+    background: linear-gradient(135deg, #c9ff07 0%, #53ff2c 100%);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: hsl(21, 100%, 50%);
+    font-family: "Times New Roman", Georgia, serif; 
+    text-align: center;
+}
+
+p { 
+    font-size: 19.5px;
+    width: 60%
+}
