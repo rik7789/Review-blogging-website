@@ -4,13 +4,77 @@ html {
     margin: 0;
     padding: 0;
 }
-h1 {
+.maintitle {
     color: hsl(21, 100%, 50%);
     font-family: "Times New Roman", Georgia, serif; 
     text-align: center;
 }
+.aboutme{
+    color:chocolate
+}
+.breakingbad{
+    float: right;
+    width: 15%;
+    height:190px;
+    margin: -40px 0 10px 20px; /* top, right, bottom, left */
+}
+.pursuit{
+    float: right;
+    width: 18%;
+    margin: -40px 0 10px 20px;
+    height:190px
+}
 
-p { 
+.wimpy{
+    float: right;
+    clear: right;   /* forces it below the previous right-floated item, in the same column */
+    width: 15%;     
+    margin: 10px 0 10px 0;
+    height: 190px
+}
+.open{
+    float: right;
+    width: 18%;
+    margin: 10px 20px 10px 0; /* top, right, bottom, left */
+    height: 190px
+}
+.about_mepara{
     font-size: 19.5px;
     width: 60%
+}
+.movietitle{
+    color:crimson;
+    font-family: "Times New Roman", Georgia, serif; 
+    text-align: center;
+}
+.babysitter{
+    text-align: center;
+    color:darkred;
+}
+
+.characters{
+    font-weight: bold;
+    font-size: 16px;
+}
+.cole1{
+    width: 40%
+}
+.cole2{
+    width: 100%
+}
+.cole3{
+    width: 30%
+}
+.rating{
+    font-size: 36px;
+    color:rgb(7, 2, 83);
+    font-weight: bold
+}
+.line{
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #00fffb, #030268, transparent);
+}
+.star7{
+    width: 30%
 }
