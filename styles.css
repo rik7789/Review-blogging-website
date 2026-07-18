@@ -10,7 +10,7 @@ html {
     text-align: center;
 }
 .aboutme{
-    color:chocolate
+    color:chocolate;
 }
 .breakingbad{
     float: right;
@@ -22,7 +22,7 @@ html {
     float: right;
     width: 18%;
     margin: -40px 0 10px 20px;
-    height:190px
+    height:190px;
 }
 
 .wimpy{
@@ -30,17 +30,17 @@ html {
     clear: right;   /* forces it below the previous right-floated item, in the same column */
     width: 15%;     
     margin: 10px 0 10px 0;
-    height: 190px
+    height: 190px;
 }
 .open{
     float: right;
     width: 18%;
     margin: 10px 20px 10px 0; /* top, right, bottom, left */
-    height: 190px
+    height: 190px;
 }
 .about_mepara{
     font-size: 19.5px;
-    width: 60%
+    width: 60%;
 }
 .movietitle{
     color:crimson;
@@ -57,18 +57,18 @@ html {
     font-size: 16px;
 }
 .cole1{
-    width: 40%
+    width: 40%;
 }
 .cole2{
-    width: 100%
+    width: 100%;
 }
 .cole3{
-    width: 30%
+    width: 30%;
 }
 .rating{
     font-size: 36px;
     color:rgb(7, 2, 83);
-    font-weight: bold
+    font-weight: bold;
 }
 .line{
   border: 0;
@@ -76,5 +76,30 @@ html {
   background-image: linear-gradient(to right, transparent, #00fffb, #030268, transparent);
 }
 .star7{
-    width: 30%
+    width: 30%;
+}
+.moviebutton{
+    color:#a72121;
+    background-color:#ffff2f;
+    font-weight: bold;
+    border-color:burlywood;
+    border-radius: 5px;
+    margin: 16.5px 0 10px 15px; /* top, right, bottom, left */
+    height: 30px
+    
+}
+.summary{
+    text-align: center;
+    font-size: 24px;
+}
+
+.explain{
+    text-align: center;
+    font-size: 24px;
+}
+
+.buttonbar{
+    background-color: #af5ce6;
+    height: 60px;
+    border: 2px dotted rgb(17, 135, 113)
 }
