@@ -70,14 +70,17 @@ html {
     color:rgb(7, 2, 83);
     font-weight: bold;
 }
+
 .line{
   border: 0;
-  height: 2px;
+  height: 4px;
   background-image: linear-gradient(to right, transparent, #00fffb, #030268, transparent);
 }
+
 .star7{
     width: 30%;
 }
+
 .moviebutton{
     color:#a72121;
     background-color:#ffff2f;
@@ -86,8 +89,8 @@ html {
     border-radius: 5px;
     margin: 16.5px 0 10px 15px; /* top, right, bottom, left */
     height: 30px
-    
 }
+
 .summary{
     text-align: center;
     font-size: 24px;
@@ -98,8 +101,65 @@ html {
     font-size: 24px;
 }
 
+.star8{
+    width: 30%
+}
+
 .buttonbar{
     background-color: #af5ce6;
     height: 60px;
     border: 2px dotted rgb(17, 135, 113)
+}
+
+.obsessionbutton{
+    color:#a72121;
+    background-color:black;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    border-color:rgba(237, 164, 5, 0.573)
+}
+
+.babysitterbutton{
+    font-weight: bold;
+    width: 120px;
+    height: 30px;
+    color:#2a0707;
+    border-color:rgb(124, 22, 43)
+}
+
+.wishwillowimage{
+    width: 30%;
+}
+
+.obsessionimg2{
+    width: 10%;
+}
+
+.imagecentered{
+    display: flex;
+    justify-content:center;
+}
+.obsessionimage3{
+    width: 20%;
+}
+.obsessionimage4{
+    width: 25%;
+}
+.obsessionimage5{
+    width: 35%;
+}
+.obsessionimage6{
+    width: 32%;
+}
+.obsessionimage7{
+    width: 30%;
+}
+.obsessionimage8{
+    width: 32%;
+}
+.obsessiontitle{
+    text-align: center;
+    color:rgb(124, 22, 43);
+    text-shadow: 2px 2px 4px #2a0707; /* X | Y | Blur | Color */
 }
