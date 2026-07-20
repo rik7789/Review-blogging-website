@@ -7,46 +7,53 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
+    
+    <!-- Button Bar at the top of the website -->
     <div class = 'buttonbar'>
-     <button class = 'moviebutton'onclick="document.getElementById('movies').scrollIntoView({behavior: 'smooth'})"> Movie Reviews </button>
+    <button class = 'moviebutton'onclick="document.getElementById('movies').scrollIntoView({behavior: 'smooth'})"> Movie Reviews </button>
+    <button class = 'tvshowbutton'onclick = "document.getElementById('tvshows').scrollIntoView({behavior: 'smooth'})">Tv-Show Reviews</button>
     </div>
     <hr class = 'line'>
+
+    <!-- Title and Description -->
     <h1 class = 'maintitle'>Reviews by Rik</h1> 
     <h2 class = 'desc'> Movie analysis | TV-Shows Reviews | Books | Video Games | Short Stories</h2>
     <hr class = 'line'>
+    <!-- About Me Section-->
     <h2 class = 'aboutme'> About me: </h2>  
     <div>
+    <!-- Images on the right side of the about me section-->
     <img class = 'breakingbad'src="breakingbad.jpg" alt="an image of breaking bad tv show">
     <img class = 'pursuit' src = 'pursuit.jpg' alt = 'an image of the movie poster: pursuit of happyness'>
     <img class = 'wimpy' src = 'wimpy.jpg' alt = 'an image of the book: Diary of a Wimpy Kid'>
     <img class = 'open' src = open.jpg alt = 'an image of the openfront game'>
     <p class = 'about_mepara'>
         Hey everyone, Rik here(short for Rithwik). I love watching different kinds of tv shows, movies, playing video games, and reading books.  
-        Some of my favourite TV shows include: Breaking Bad, Stranger Things, Better Call Saul, Modern Family, and many more TV-SHOWS from all genres.
-        My favourite movie series includes the Marvel series, animated Spiderman movies, and my favourite movie is The Pursuit of Happyness. Additionally, I am looking forward to watching the new Odyssey and the new Spider-Man movie coming up.
-        I also like reading the Geronimo Stilton book Series and the Diary of the Wimpy Kid series. Another book that I recently enjoyed reading was Animal Farm.
-        My favourite video games include Minecraft, Fortnite, Rocket League, and Brawlhalla. I play Minecraft on my laptop (Java edition), and the rest of these games I play on my console, which is an Xbox-One-S. A recent game I downloaded and played on my Xbox One S console was the new harry potter game!
-        A new niche game that I've been playing is Openfront - you are set in spawn with a bunch of other players on a randomized map; the map could be of Asia, Europe, Antarctica, even Mars, and you are trying to conquer the whole map!
+        Some of my favourite TV shows include: <span class = 'blue'>Breaking Bad, Stranger Things, Better Call Saul, Modern Family</span>, and many more TV-SHOWS from all genres.
+        My favourite movie series includes the <span class = 'red'>Marvel series, animated Spiderman movies </span>, and my favourite movie is <span class = 'blue'>The Pursuit of Happyness </span>. Additionally, I am looking forward to watching the new Odyssey and the new Spider-Man movie coming up.
+        I also like reading the <span class = 'green'> Geronimo Stilton</span> book Series and the <span class = 'red'>Diary of the Wimpy Kid series</span>. Another book that I recently enjoyed reading was Animal Farm.
+        My favourite video games include <span class = 'green'>Minecraft</span>, <span class = 'red'>Fortnite</span>, <span class = 'blue'>Rocket League</span>, and <span class = 'red'>Brawlhalla</span>. I play Minecraft on my laptop (Java edition), and the rest of these games I play on my console, which is an <span class = 'green'>Xbox-One-S</span>. A recent game I downloaded and played on my Xbox One S console was the new harry potter game!
+        A new niche game that I've been playing is <span class = 'green'>Openfront</span> - you are set in spawn with a bunch of other players on a randomized map; the map could be of Asia, Europe, Antarctica, even Mars, and you are trying to conquer the whole map!
         I also love writing blogs and storytelling.
         I wish you would join me on my journey and read my Awesome movie reviews, Insane TV-Show Reviews, what video games to play next, what books to read?, and a bit of my own creative stories.
     </p>
     </div>
-
+    <!-- Movie section starts here -->
     <div id = 'movies'>
     <hr class = 'line'>
     <h1 class = 'movietitle'>Movies</h1>
+    <!-- Buttons under the movie section -->
     <button class = 'babysitterbutton' onclick = "document.getElementById('babysitter').scrollIntoView({behavior: 'smooth'})"> The Babysitter </button> 
     <button class = 'obsessionbutton' onclick="document.getElementById('obsession').scrollIntoView({behavior: 'smooth'})"> Obsession </button>
     <hr class = 'line'>
+    <!-- Babysitter movie blog starts here -->
     <div id = 'babysitter'> 
     <h1 class = 'babysitter title'>The Babysitter</h1>
     <h3> Entry one </h3>
-    <h3>Genre: Horror/Comedy, Length: 1 hour 20 minutes, Streaming platform: Netflix, rating: TV-MA </h3>
+    <h3>Genre: Horror/Comedy, Length: 1 hour 20 minutes, Streaming platform: Netflix | rating: TV-MA </h3>
     <p>Yesterday, my friends and I were looking for a horror movie to watch. We were scrolling through Netflix until we landed on the babysitter movie.
     We watched the trailer; we liked it and decided to watch the movie. </p>
     <h3> Characters: </h3>
-
         <p><span class = 'bold'>The babysitter:</span> Bee</p>
         <p><span class = 'bold'>12 year old boy:</span> Cole</p>
         <p><span class = 'bold'>12 year old boy's friend:</span> Melanie</p>
@@ -182,10 +189,11 @@
     </div>
 
     <hr class = 'line'>
+    <!-- Obsession section starts here-->
     <div id = 'obsession' class = 'obsession'>
         <h1 class = 'obsessiontitle'> Obsession </h1>
         <h3> Entry Two </h3>
-        <h3>Genre: Horror/Romance | Length: 1 hour 50 minutes | Streaming platform: 15$ on Youtube and Google Play </h3>
+        <h3>Genre: Horror/Romance | Length: 1 hour 50 minutes | Streaming platform: 15$ on Youtube and Google Play | Rating: R </h3>
         <p> One month ago, the movie Obsession was going crazy over social media platforms. Me and my friends were getting recommended a lot of instagram reels
             based on this movie. We all enjoyed watching the reels and decided to go watch the movie for ourselves. When we went and watched it in the theatres, the good seats were all taken!
             The movie must have got a lot of hype, we had to end up settling for the front seats. We were hearing the audio one second after the scene had played. Along with that, during any scaring scenes
@@ -397,7 +405,7 @@
            and Bear actually being the villain was crazy. Which is why I think, the villain part of this movie was insane.
            Overall, I would rate the villain section of the movie a 10/10. 
         </p>
-        <h3>Ending</h3>
+        <h3> Ending </h3>
         <p>
            The ending left me very unfulfilled. I feel it wasn't fair that Nikki just threw Bear's body on the floor after all that they had been through.
            I also had many questions about what would happen with Nikki moving forward. Would she go to jail? Would she somehow get away with all this?
@@ -405,7 +413,7 @@
            literally anyone else to make a conflicting wish and end this all simply by doing that. Due to these unanswered questions the ending felt a bit off for me.
            Overall, I would rate the ending of this movie a 5/10. 
         </p>
-        <h3>Personal Enjoyment</h3>
+        <h3> Personal Enjoyment </h3>
         <p> 
             I really enjoyed this film as it was my first horror movie in a while. The jumpscares, and the music accompanying it were on point.
             I feel that the film would have been even more enjoyable if the audience in my theatre weren't laughing at every scary scene.
@@ -429,6 +437,22 @@
         <hr class = 'line'>
 
         </div>
+</div>
+<div id = 'tvshows'>
+<h1 class = 'tvshowtitle'> Tv Shows </h1>
+<button class = 'cobrakaibutton' onclick="document.getElementById('cobrakai').scrollIntoView({behavior: 'smooth'})" > Cobra Kai </button>
+<hr class = 'line'>
+<div id = 'cobrakai'>
+<h1 class = 'cobrakaititle'>Cobra Kai</h1>
+<h3> Entry 3 </h3>
+<h3> Genre: Action/Adventure | Length: 6 seasons, 65 episodes total, 30 minutes - 1 hour for each episode | Streaming Platform: Netflix | Rating: TV-14 </h3>
+<p>Cobra Kai has been my favourite tv serial for a very long time now. I started watching it in 2022 and the final season streamed in early 2025.
+    I also have a youtube channel where I made a lot of cobra kai content: <a href="https://www.youtube.com/@therikshow7">My Youtube Channel</a>. 
+    If you want to view any videos you can do so on my youtube.
+    Let's get right into this Tv-Show Review.
+</p>
+
+</div>
 </div>
 </body>
 </html>
