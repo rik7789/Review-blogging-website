@@ -1,4 +1,5 @@
 # Review-blogging-website
+Link to view my website: https://rik7789.github.io/Review-blogging-website/
 Description:
 Hi everyone! This is my blogging website, where I share my reviews on different movies, TV shows, books and video games.
 <img width="947" height="498" alt="Image" src="https://github.com/user-attachments/assets/61a2ed92-508f-43ca-a7c3-bb0f963713d8" />
@@ -20,4 +21,4 @@ Once you are at the section you can navigate to which movie/TV show you want to 
 <img width="537" height="86" alt="Image" src="https://github.com/user-attachments/assets/d55ecb00-56fd-474f-8940-af6b10df4836" />
 
 I plan on updating my blog in the future by adding more short-stories, review on books/video-games, and more!
-This is a project for HackClub #Horizons!!!
+This is a project for HackClub #Horizons!!! I am still very new to coding, so please let me know if you have any suggestion for me.
