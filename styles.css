@@ -14,12 +14,8 @@ html {
 .aboutme {
     color:chocolate;
 }
-.red{
-    color: rgb(238, 22, 22);
-    font-weight: bold; 
-    text-shadow: 2px 2px 4px #7d2e09; /* X | Y | Blur | Color */
-}
 
+/* Images on the right side of the about me section */
 .breakingbad{
     float: right;
     width: 15%;
@@ -58,10 +54,22 @@ html {
     width: 60%;
 }
 
+.desc{
+    color: hsl(0, 100%, 29%);
+    font-family: "Times New Roman", Georgia, serif; 
+    text-align: center;
+}
+
 .movietitle{
     color:crimson;
     font-family: "Times New Roman", Georgia, serif; 
     text-align: center;
+}
+.tvshowtitle{
+    font-family: 'Fira Code', monospace;
+    color:#5a15fc;
+    text-align: center;
+    font-weight: bold; 
 }
 
 .babysitter{
@@ -74,7 +82,7 @@ html {
     font-weight: bold;
     font-size: 16px;
 }
-
+/* Images from the Babysitter Movie */
 .cole1{
     width: 40%;
     border: 5px solid #6e1174;
@@ -105,6 +113,7 @@ html {
     width: 30%;
     border: 5px solid #ffd70f;
 }
+
 .moviebutton{
     color:#a72121;
     background-color:#ffff2f;
@@ -113,6 +122,20 @@ html {
     border-radius: 5px;
     margin: 16.5px 0 10px 15px; /* top, right, bottom, left */
     height: 30px;
+}
+.tvshowbutton{
+    color: #ff0062;
+    background-color: #8203f9;
+    font-weight: bold; 
+    border-color: burlywood;
+    border-radius: 5px;
+    margin: 16.5px 0 10px 15px; /* top, right, bottom, left */
+    height: 30px;
+}
+.cobrakaibutton{
+    background-color:crimson;
+    color:#fff82f;
+    font-weight: bold;
 }
 
 .summary{
@@ -153,11 +176,13 @@ html {
     border-color:rgb(124, 22, 43);
     background-color: black;
 }
-
+/* Common div for centering images on the screen */
 .imagecentered{
     display: flex;
     justify-content:center;
 }
+
+/* Images used in obsession blog are below */
 
 .wishwillowimage{
     width: 30%;
@@ -210,16 +235,34 @@ html {
     color:rgb(124, 22, 43);
     text-shadow: 2px 2px 4px #2a0707; /* X | Y | Blur | Color */
 }
+.cobrakaititle{
+    text-align: center;
+    color:hsl(0, 85%, 38%);
+    -webkit-text-stroke: 2px black; 
+
+}
+
+/* Used for span commands to highlight/bold specific text in a paragraph */
+
 .bold{
     font-weight:bold;
-}
-.desc{
-    color: hsl(0, 100%, 29%);
-    font-family: "Times New Roman", Georgia, serif; 
-    text-align: center;
 }
 .pink{ 
     color:#c51768;
     text-shadow: 2px 2px 4px #721616; /* X | Y | Blur | Color */
     font-family: 'Creepster', cursive;
+}
+.red{
+    color: rgb(238, 22, 22);
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px #7d2e09; /* X | Y | Blur | Color */
+}
+.blue{
+    color: rgb(12, 202, 255);
+    font-weight: bold;
+    font-family: 'Syne', sans-serif;
+}
+.green{
+    color: rgb(29, 139, 29);
+    font-weight: bold;
 }
