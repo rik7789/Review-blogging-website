@@ -19,6 +19,7 @@ How-it-works: You can get reading on my movie reviews, you can use the buttons o
 
 Once you are at the section you can navigate to which movie/TV show you want to read the review on. 
 <img width="537" height="86" alt="Image" src="https://github.com/user-attachments/assets/d55ecb00-56fd-474f-8940-af6b10df4836" />
-Enjoy reading(you can skip the summary section if you have already watched the movie/TV show)
+Enjoy reading(you can skip the summary section if you have already watched the movie/TV show).
+I didn't use much AI for generating code. I only used google in-built AI, while searching up to explore specific commands that I didn't know before. If I was stuck on code for a while, I asked Claude what I was doing wrong and how to fix it.
 I plan on updating my blog in the future by adding more short-stories, review on books/video-games, and more!
 This is a project for HackClub #Horizons!!! I am still very new to coding, so please let me know if you have any suggestion for me.
