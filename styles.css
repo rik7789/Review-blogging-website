@@ -239,9 +239,31 @@ html {
     text-align: center;
     color:hsl(0, 85%, 38%);
     -webkit-text-stroke: 2px black; 
-
 }
-
+.cobra1{
+    width: 20%; 
+    border: 5px solid #ff0c0c;
+}
+.cobra2{
+    width: 20%; 
+    border: 5px solid #ff0c0c;
+}
+.cobra3{
+    width: 20%; 
+    border: 5px solid #ff0c0c;
+}
+.cobra4{
+    width: 20%;
+    border: 5px solid #ff0c0c;
+}
+.cobra5{
+    width: 10%;
+    border: 5px solid #ff0c0c;
+}
+.cobra6{
+    width: 30%;
+    border: 5px solid #ff0c0c;
+}
 /* Used for span commands to highlight/bold specific text in a paragraph */
 
 .bold{
