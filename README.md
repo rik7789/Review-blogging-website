@@ -9,7 +9,7 @@ A filling in the gaps/explanations: where I go over things that didn't make sens
 <img width="950" height="486" alt="Image" src="https://github.com/user-attachments/assets/e831a2bc-38be-490b-b416-e47b2a6cfd07" />
 the review portion where I review the movie based on several categories:
 <img width="932" height="491" alt="Image" src="https://github.com/user-attachments/assets/e9f5121d-1d93-4bd9-8a08-951436d5ad18" />
-Tech-Stack: Html and CSS
+Tech-Stack: Html and CSS built with visual studio code
 
 Motivation: I have loved writing and story-telling from a very young-age. I have always written some short-stories in notebooks when I was a child, and getting to share my ideas with the world is something I am very passionate about. I also enjoy watching movies and TV shows, but also analyzing them and learning why everything in the TV show/movie occured(any fan theories or explanations to confusing bits in the content). 
 
@@ -20,3 +20,4 @@ Once you are at the section you can navigate to which movie/TV show you want to 
 <img width="537" height="86" alt="Image" src="https://github.com/user-attachments/assets/d55ecb00-56fd-474f-8940-af6b10df4836" />
 
 I plan on updating my blog in the future by adding more short-stories, review on books/video-games, and more!
+This is a project for HackClub #Horizons!!!
