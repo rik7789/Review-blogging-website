@@ -11,7 +11,7 @@ the review portion where I review the movie based on several categories:
 <img width="932" height="491" alt="Image" src="https://github.com/user-attachments/assets/e9f5121d-1d93-4bd9-8a08-951436d5ad18" />
 Tech-Stack: Html and CSS
 
-Motivation: I have loved writing and story-telling from a very young-age. I have always written some short-stories in notebooks when I was a child, and getting to share my ideas with the world is something I am very passionate about. I also enjoy watching movies and TV shows, but also analyzing them and learning why everything in the TV show/movie occured(any fan theories or explanations to confusing bits in the content. 
+Motivation: I have loved writing and story-telling from a very young-age. I have always written some short-stories in notebooks when I was a child, and getting to share my ideas with the world is something I am very passionate about. I also enjoy watching movies and TV shows, but also analyzing them and learning why everything in the TV show/movie occured(any fan theories or explanations to confusing bits in the content). 
 
 How-it-works: You can get reading on my movie reviews, you can use the buttons on the top-bar to navigate to the two sections(TV-SHOWS or the movies section).
 <img width="955" height="51" alt="Image" src="https://github.com/user-attachments/assets/108b2c15-e729-4da2-a0f4-bc1f1cd9ddf4" />
