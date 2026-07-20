@@ -113,6 +113,10 @@ html {
     width: 30%;
     border: 5px solid #ffd70f;
 }
+.star9{
+    width: 30%;
+    border: 5px solid #ffd70f;
+}
 
 .moviebutton{
     color:#a72121;
@@ -242,28 +246,41 @@ html {
 }
 .cobra1{
     width: 20%; 
-    border: 5px solid #ff0c0c;
+    border: 5px solid #fffb00;
 }
 .cobra2{
     width: 20%; 
-    border: 5px solid #ff0c0c;
+    border: 5px solid #fffb00;
 }
 .cobra3{
     width: 20%; 
-    border: 5px solid #ff0c0c;
+    border: 5px solid #fffb00;
 }
 .cobra4{
-    width: 20%;
-    border: 5px solid #ff0c0c;
+    width: 20%; 
+    border: 5px solid #fffb00;
 }
 .cobra5{
     width: 10%;
-    border: 5px solid #ff0c0c;
+    border: 5px solid #fffb00;
 }
 .cobra6{
     width: 30%;
-    border: 5px solid #ff0c0c;
+    border: 5px solid #fffb00;
 }
+.cobra7{
+    width: 25%;
+    border: 5px solid #fffb00;
+}
+.cobra8{
+    width: 25%;
+    border: 5px solid #fffb00;
+}
+.cobra9{
+    width: 10%;
+    border: 5px solid #fffb00;
+}
+
 /* Used for span commands to highlight/bold specific text in a paragraph */
 
 .bold{
