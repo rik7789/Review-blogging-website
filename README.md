@@ -17,8 +17,8 @@ Motivation: I have loved writing and story-telling from a very young-age. I have
 How-it-works: You can get reading on my movie reviews, you can use the buttons on the top-bar to navigate to the two sections(TV-SHOWS or the movies section).
 <img width="955" height="51" alt="Image" src="https://github.com/user-attachments/assets/108b2c15-e729-4da2-a0f4-bc1f1cd9ddf4" />
 
-Once you are at the section you can navigate to which movie/TV show you want to read the review on. Enjoy reading(you can skip the summary section if you have already watched the movie/TV show)
+Once you are at the section you can navigate to which movie/TV show you want to read the review on. 
 <img width="537" height="86" alt="Image" src="https://github.com/user-attachments/assets/d55ecb00-56fd-474f-8940-af6b10df4836" />
-
+Enjoy reading(you can skip the summary section if you have already watched the movie/TV show)
 I plan on updating my blog in the future by adding more short-stories, review on books/video-games, and more!
 This is a project for HackClub #Horizons!!! I am still very new to coding, so please let me know if you have any suggestion for me.
