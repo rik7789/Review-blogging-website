@@ -180,6 +180,15 @@ html {
     border-color:rgb(124, 22, 43);
     background-color: black;
 }
+.odysseybutton{
+    font-weight: bold;
+    color: #4F6997;
+    background-color: black;
+    border-color:rgb(255, 243, 20);
+    width: 120px;
+    height: 30px;
+}
+
 /* Common div for centering images on the screen */
 .imagecentered{
     display: flex;
@@ -279,6 +288,13 @@ html {
 .cobra9{
     width: 10%;
     border: 5px solid #fffb00;
+}
+
+.odysseytitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: #4F6997;
+    text-align: center;
 }
 
 /* Used for span commands to highlight/bold specific text in a paragraph */
