@@ -296,7 +296,39 @@ html {
     color: #4F6997;
     text-align: center;
 }
+.odyssey1{
+    width: 20%;
+    border: 5px solid #4F6997;
+}
+.odyssey2{
+    width: 20%;
+    border: 5px solid #4F6997;
+}
+.odyssey3{
+    width: 30%;
+    border: 5px solid #4F6997;
+}
+.odyssey4{
+    width: 30%;
+    border: 5px solid #4F6997;
+}
+.odyssey5{
+    width: 25%;
+    border: 5px solid #4F6997;
+}
+.odyssey6{
+    width: 30%;
+    border: 5px solid  #4F6997;
+}
 
+.odyssey7{
+    width: 30%;
+    border: 5px solid #4F6997;
+}
+.odyssey8{
+    width: 40%;
+    border: 5px solid #4F6997;
+}
 /* Used for span commands to highlight/bold specific text in a paragraph */
 
 .bold{
