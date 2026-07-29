@@ -18,7 +18,7 @@ How-it-works: You can get reading on my movie reviews, you can use the buttons o
 <img width="955" height="51" alt="Image" src="https://github.com/user-attachments/assets/108b2c15-e729-4da2-a0f4-bc1f1cd9ddf4" />
 
 Once you are at the section you can navigate to which movie/TV show you want to read the review on. 
-<img width="537" height="86" alt="Image" src="https://github.com/user-attachments/assets/d55ecb00-56fd-474f-8940-af6b10df4836" />
+<img width="436" height="81" alt="Image" src="https://github.com/user-attachments/assets/3076f0b9-d337-462d-84d9-d3037172e8b0" />
 
 Setup/run instructions:
 Clone the repo by running git clone: https://github.com/rik7789/Review-blogging-website.git
