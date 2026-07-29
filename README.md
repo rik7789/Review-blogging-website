@@ -4,7 +4,7 @@ Description:
 Hi everyone! This is my blogging website, where I share my reviews on different movies, TV shows, books and video games.
 <img width="947" height="498" alt="Image" src="https://github.com/user-attachments/assets/61a2ed92-508f-43ca-a7c3-bb0f963713d8" />
 I also like writing short stories, so in the future I may upload short stories that you guys can read.
-Currently, I have posted 3 blogs-reviews, 2 on movies, and 1 on a TV show. The two movies I have done a review on are The babysitter, and Obsession. The TV show I have done a review on is Cobra Kai. In every review, I typically include 3 sections: 
+Currently, I have posted 4 blogs-reviews, 3 on movies, and 1 on a TV show. The two movies I have done a review on are The babysitter, Obsession, and the Odyssey. The TV show I have done a review on is Cobra Kai. In every review, I typically include 3 sections: 
 a summary section(what happens in the tv show/movie): <img width="948" height="473" alt="Image" src="https://github.com/user-attachments/assets/83926c30-7039-482a-b3e4-daca8d59128f" />
 A filling in the gaps/explanations: where I go over things that didn't make sense while watching the content: 
 <img width="950" height="486" alt="Image" src="https://github.com/user-attachments/assets/e831a2bc-38be-490b-b416-e47b2a6cfd07" />
@@ -19,7 +19,15 @@ How-it-works: You can get reading on my movie reviews, you can use the buttons o
 
 Once you are at the section you can navigate to which movie/TV show you want to read the review on. 
 <img width="537" height="86" alt="Image" src="https://github.com/user-attachments/assets/d55ecb00-56fd-474f-8940-af6b10df4836" />
+
+Setup/run instructions:
+Clone the repo by running git clone: https://github.com/rik7789/Review-blogging-website.git
+Then you can go in the project folder: cd Review-blogging-website.
+And there is no installation needed, it's just a static site, so you can open directly in browser.
+
 Enjoy reading(you can skip the summary section if you have already watched the movie/TV show).
+
 I didn't use much AI for generating code. I only used google in-built AI, while searching up to explore specific commands that I didn't know before. If I was stuck on code for a while, I asked Claude what I was doing wrong and how to fix it.
 I plan on updating my blog in the future by adding more short-stories, review on books/video-games, and more!
+
 This is a project for HackClub #Horizons!!! I am still very new to coding, so please let me know if you have any suggestion for me.
