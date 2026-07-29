@@ -329,6 +329,20 @@ html {
     width: 40%;
     border: 5px solid #4F6997;
 }
+.odyssey9{
+    width: 30%;
+    border: 5px solid #4F6997;
+}
+
+.odyssey10{
+    width: 20%;
+    border: 5px solid #4F6997;
+}
+
+.odyssey11{
+    width: 50%;
+    border: 5px solid #4F6997;
+}
 /* Used for span commands to highlight/bold specific text in a paragraph */
 
 .bold{
@@ -352,4 +366,9 @@ html {
 .green{
     color: rgb(29, 139, 29);
     font-weight: bold;
+}
+.navy{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: #4F6997;
 }
