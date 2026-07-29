@@ -339,10 +339,20 @@ html {
     border: 5px solid #4F6997;
 }
 
-.odyssey11{
+.odyssey11{ 
     width: 50%;
     border: 5px solid #4F6997;
 }
+
+.odyssey12{
+    width: 37%;
+    border: 5px solid #4F6997;
+}
+.odyssey13{
+    width: 30%;
+    border: 5px solid #4F6997;
+}
+
 /* Used for span commands to highlight/bold specific text in a paragraph */
 
 .bold{
